@@ -1,4 +1,16 @@
 .site-header {
-    font-family: $header-text-stack;
-    font-size: 48px;
+  font-family: $header-text-stack;
+  font-size: 48px;
+  text-decoration: none;
+}
+
+#site-navigation {
+  display: inline;
+  float: right;
+}
+
+.nav-link {
+  font-family: $copy-text-stack;
+  margin-left: 16px;
+  font-size: 20px;
 }
