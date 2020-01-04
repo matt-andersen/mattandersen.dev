@@ -3,16 +3,24 @@
   font-size: 48px;
   line-height: 48px;
   text-decoration: none;
+  max-height: inherit;
+
 }
+
+a.site-header {
+  max-height: 48px;
+}
+
 
 header {
   margin-top: $lane;
+  height: 48px;
 }
 
 #site-navigation {
   display: inline;
   float: right;
-  line-height: 48px;
+  line-height: 46px;
 }
 
 @media only screen and (max-width: 1200px) {
