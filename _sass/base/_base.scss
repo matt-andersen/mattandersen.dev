@@ -1,0 +1,12 @@
+body {
+  background-color: $primary-color;
+  margin-left: $margin;
+  margin-right: $margin;
+  margin-top: $lane;
+  color: $secondary-color;
+}
+
+a {
+    text-decoration: underline;
+    color: $secondary-color;
+}
