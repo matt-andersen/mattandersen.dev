@@ -1,12 +1,24 @@
 .site-header {
   font-family: $header-text-stack;
   font-size: 48px;
+  line-height: 48px;
   text-decoration: none;
+}
+
+header {
+  margin-top: $lane;
 }
 
 #site-navigation {
   display: inline;
   float: right;
+  line-height: 48px;
+}
+
+@media only screen and (max-width: 1200px) {
+  #site-navigation {
+    display: block;
+  }
 }
 
 .nav-link {

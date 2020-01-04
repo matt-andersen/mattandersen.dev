@@ -1,3 +1,7 @@
+.site-footer {
+  margin-top: $lane*2;
+}
+
 .icon {
   list-style-type: none;
   display: inline;
@@ -14,11 +18,4 @@
 
 .email {
   content: url("../../assets/images/email-ico.png");
-}
-
-footer {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  margin-bottom: $lane;
 }

@@ -1,15 +1,13 @@
-.index-content {
-    margin-top: $lane*3;
-    max-width: 640px;
-}
-
 .subheading-text {
     font-family: $header-text-stack;
     font-size: 36px;
 }
 
 .introduction-text {
+    $font-size: 24px;
     font-family: $copy-text-stack;
-    font-size: 28px;
+    font-size: $font-size;
+    margin-top: $font-size;
+    margin-bottom: 0;
     line-height: 44px;
 }

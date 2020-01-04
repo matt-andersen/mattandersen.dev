@@ -7,9 +7,12 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Mono&display=swap" rel="stylesheet" />
   </head>
   <body>
-    {% include logo.html %}
-    {% include nav.html %}
-    <main>
+    <header>
+      <div class="wrapper">
+        {% include logo.html %} {% include nav.html %}
+      </div>
+    </header>
+    <main class="page-content">
       {{ content }}
     </main>
     {% include footer.html %}
