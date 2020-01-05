@@ -1,14 +1,14 @@
 .wrapper {
-    max-width: -webkit-calc(880px - (30px * 2));
-    max-width: calc(880px - (30px * 2));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 30px;
-    padding-left: 30px;
-  }
-  
-  .heading-text {
-    font-family: $header-text-stack;
-    font-size: 24px;
-    font-weight: 400;
-  }
+  max-width: -webkit-calc(880px - (30px * 2));
+  max-width: calc(880px - (30px * 2));
+  margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.heading-text {
+  font-family: $header-text-stack;
+  font-size: 24px;
+  font-weight: 400;
+}

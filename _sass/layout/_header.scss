@@ -29,3 +29,17 @@ $header-line-height: 61px;
 .site-nav a {
   text-decoration: none;
 }
+
+.site-nav .menu-icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .site-nav {
+    float: none;
+  }
+
+  .site-title {
+    float: none;
+  }
+}
