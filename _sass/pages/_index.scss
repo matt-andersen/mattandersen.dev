@@ -1,9 +1,40 @@
+.post-list {
+    list-style: none;
+    margin-left: 0;
+    padding: 0;
+}
 
-.introduction-text {
-    $font-size: 1.5em;
-    font-family: $copy-text-stack;
-    font-size: $font-size;
-    margin-top: 24px;
-    margin-bottom: 0;
-    line-height: 44px;
+.post {
+    margin-bottom: 30px;
+}
+.post-heading {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.post-heading a:visited {
+    color: #1756a9;
+}
+
+.post-heading a {
+    color: #2a7ae2;
+    text-decoration: none;
+}
+
+.post-heading a:hover {
+    color: $secondary-color;
+    text-decoration: underline;
+}
+
+.stickied {
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+  
+.post-meta {
+    font-size: 14px;
+    color: #828282;
 }

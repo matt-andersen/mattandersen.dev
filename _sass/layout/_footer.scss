@@ -1,22 +1,50 @@
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 30px 0;
+  font-size: 14px;
 }
 
-.icon {
-  list-style-type: none;
+.footer-wrapper {
   display: inline;
-  margin-right: 24px;
 }
 
-.github {
-  content: url("../../assets/images/github-ico.png");
+.site-footer a:hover {
+  color: #111;
+  text-decoration: underline;
+}
+.site-footer a:visited {
+  color: #1756a9;
+}
+.site-footer a {
+  color: #2a7ae2;
+  text-decoration: none;
 }
 
-.linkedin {
-  content: url("../../assets/images/linkedin-ico.png");
+.social-icon {
+  list-style: none;
+
 }
 
-.email {
-  content: url("../../assets/images/email-ico.png");
+.contact-list {
+  padding: 0;
+  margin: 0;
+  padding-right: 60px;
+  float: left;
+  list-style: none;
+  color: #828282;
+}
+
+.social-list {
+  padding: 0;
+  margin: 0;
+  float: left;
+  list-style: none;
+}
+
+
+.site-footer svg {
+  width: 16px;
+  height: 16px;
+  fill: #828282;
+  padding-right: 4px;
 }
