@@ -3,13 +3,19 @@ layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
 
-    <header class="post-header">
-        <h1 class="heading-text" itemprop="name headline">{{ page.title }}</h1>
-        <span class="post-meta"> {{ page.date | date: "%-d %b, %Y"}} </span>
-    </header>
+  <header class="post-header">
+    <h1 class="heading-text" itemprop="name headline">{{ page.title }}</h1>
+    <span class="post-meta">First posted: {{ page.date | date: "%-d %b, %Y"}}
 
-    <main class="page-content">
-        {{ content }}
-    </main>
+      {% if page.last_modified_at != null %}| Last updated:
+      {{ page.last_modified_at | date: "%-d %b, %Y"}}{% endif %}</span>
+
+  </header>
+
+  <main class="page-content">
+    {{ content }}
+  </main>
+
+  <a class="back-link" href="/">Return home</a>
 
 </article>

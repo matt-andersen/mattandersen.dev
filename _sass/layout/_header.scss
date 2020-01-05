@@ -26,8 +26,9 @@ $header-line-height: 61px;
   margin-right: 20px;
 }
 
-.site-nav a {
+.site-header a {
   text-decoration: none;
+  color: $secondary-color;
 }
 
 .site-nav .menu-icon {

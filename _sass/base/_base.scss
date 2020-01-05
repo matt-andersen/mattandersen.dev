@@ -5,11 +5,18 @@ body {
   font: $copy-text-stack;
 }
 
-a {
-    text-decoration: underline;
-    color: $secondary-color;
+a:visited {
+  color: #1756a9;
 }
 
+a {
+  color: #2a7ae2;
+  text-decoration: none;
+}
+a:hover {
+  color: $secondary-color;
+  text-decoration: underline;
+}
 
 .page-content {
   margin-top: 30px;
@@ -18,8 +25,7 @@ a {
 
 .page-header {
   font-family: $header-text-stack;
-    font-size: 42px;
-    letter-spacing: -1px;
-    line-height: 1;
+  font-size: 42px;
+  letter-spacing: -1px;
+  line-height: 1;
 }
-
