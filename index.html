@@ -3,24 +3,27 @@ layout: default
 title: Matt Andersen
 ---
 
-<div class="index-content wrapper">
+<div class="index-content">
   <h1 class="heading-text">Posts</h1>
 
   <ul class="post-list">
-    <li class="post">
-      <span class="post-meta">Jan 2, 2020</span>
-      <h2 class="post-heading"><a href="#">📌 Purpose of this blog</a></h2>
-    </li>
 
+    {% assign pinned = site.posts | where: "pin", true %}
+    {% for post in pinned %}
     <li class="post">
-      <span class="post-meta">Jan 4, 2020</span>
-      <h2 class="post-heading"><a href="#">Google Site Engineering</a></h2>
+      <span class="post-meta"> {{ post.date | date: "%-d %b, %Y"}} </span>
+      <h2 class="post-heading"><a href="{{ post.url }}">📌 Pinned: {{ post.title }}</a></h2>
     </li>
+    {% endfor %}
 
+    {% assign sorted-posts = site.posts | where: "pin", false %}
+    {% for post in sorted-posts %}
     <li class="post">
-      <span class="post-meta">Jan 3, 2020</span>
-      <h2 class="post-heading"><a href="#">Jenkin, Jenkins, and more Jenkins</a></h2>
+      <span class="post-meta"> {{ post.date | date: "%-d %b, %Y"}} </span>
+      <h2 class="post-heading"><a href="{{ post.url }}">{{ post.title }}</a></h2>
     </li>
+    {% endfor %}
+
   </ul>
 
 </div>
