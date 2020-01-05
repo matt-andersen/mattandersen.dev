@@ -1,13 +1,13 @@
 .subheading-text {
     font-family: $header-text-stack;
-    font-size: 36px;
+    font-size: 2.5em;
 }
 
 .introduction-text {
-    $font-size: 24px;
+    $font-size: 1.5em;
     font-family: $copy-text-stack;
     font-size: $font-size;
-    margin-top: $font-size;
+    margin-top: 24px;
     margin-bottom: 0;
     line-height: 44px;
 }

@@ -1,36 +1,25 @@
 .site-header {
+  padding-top: $lane;
+  min-height: 56px;
+  position: relative;
+}
+
+.site-title {
   font-family: $header-text-stack;
   font-size: 48px;
-  line-height: 48px;
+  font-weight: 300;
+  line-height: 56px;
+  margin-bottom: 0;
+  float: left;
   text-decoration: none;
-  max-height: inherit;
-
 }
 
-a.site-header {
-  max-height: 48px;
-}
-
-
-header {
-  margin-top: $lane;
-  height: 48px;
-}
-
-#site-navigation {
-  display: inline;
+.site-nav {
   float: right;
-  line-height: 46px;
-}
-
-@media only screen and (max-width: 1200px) {
-  #site-navigation {
-    display: block;
-  }
-}
-
-.nav-link {
-  font-family: $copy-text-stack;
-  margin-left: 16px;
   font-size: 20px;
+  line-height: 56px;
+}
+
+.site-nav .nav-link:not(:last-child) {
+  margin-right: 20px;
 }

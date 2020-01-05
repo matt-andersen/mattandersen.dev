@@ -2,6 +2,7 @@ body {
   background-color: $primary-color;
   margin: 0;
   color: $secondary-color;
+  font: $copy-text-stack;
 }
 
 a {
@@ -10,9 +11,12 @@ a {
 }
 
 .wrapper {
-  max-width: 800px;
-  margin-left: auto;
+  max-width: -webkit-calc(880px - (30px * 2));
+  max-width: calc(880px - (30px * 2));
   margin-right: auto;
+  margin-left: auto;
+  padding-right: 30px;
+  padding-left: 30px;
 }
 
 .page-content {
