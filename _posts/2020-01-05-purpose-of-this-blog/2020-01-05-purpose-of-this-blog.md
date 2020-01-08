@@ -21,3 +21,5 @@ Okay enough talking, here is what my learning tree looks like. Please note that 
 0. [Source Control With Git](https://linuxacademy.com/cp/modules/view/id/195?redirect_uri=https://app.linuxacademy.com/search?) by Linux Academy 🕒 (need to finish labs)
 
 0. [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) by Linux Academy ✅
+
+Further courses to be added 🚧
