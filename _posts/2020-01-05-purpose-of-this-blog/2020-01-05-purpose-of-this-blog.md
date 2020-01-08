@@ -21,21 +21,3 @@ Okay enough talking, here is what my learning tree looks like. Please note that 
 0. [Source Control With Git](https://linuxacademy.com/cp/modules/view/id/195?redirect_uri=https://app.linuxacademy.com/search?) by Linux Academy 🕒 (need to finish labs)
 
 0. [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) by Linux Academy ✅
-
-0. [Jenkins Quick Start](https://linuxacademy.com/course/jenkins-quick-start/) by Linux Academy ⌛
-
-0. [YAML Essentials](https://linuxacademy.com/cp/modules/view/id/276) by Linux Academy
-
-0. [Kubernetes Essentials](https://linuxacademy.com/cp/modules/view/id/281) by Linux Academy
-
-0. [Docker Quick Start](https://linuxacademy.com/cp/modules/view/id/284) by Linux Academy
-
-0. [Junior Linux System Administration](https://linuxacademy.com/learning-path/junior-linux-systems-administrator-entry-level/) by Linux Academy
-
-0. [AWS Essentials](https://linuxacademy.com/course/aws-essentials-new/) by Linux Academy
-
-0. [Certified Jenkins Engineer](https://linuxacademy.com/course/certified-jenkins-engineer-2018/) by Linux Academy
-
-0. [Ansible: Setup, Configure, and Ad Hoc Commands Deep Dive](https://linuxacademy.com/course/ansibe-setup-configure-ad-hoc-commands/) by Linux Academy
-
-0. [Ansible: Playbooks Deep Dive](https://linuxacademy.com/course/ansible-playbooks-deep-dive/) by Linux Academy
