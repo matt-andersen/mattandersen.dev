@@ -20,29 +20,28 @@ Okay enough talking, here is what my learning tree looks like. Please note that 
 
 This is a structured [learning path](https://linuxacademy.com/learning-path/junior-devops-engineer-entry-level/) provided by Linux Academy. Below are the courses that make up this path:
 
-0. [Linux Foundation Certified SysAdmin (LFCS)](https://linuxacademy.com/cp/modules/view/id/173) by Linux Academy
+1. [Linux Foundation Certified SysAdmin (LFCS)](https://linuxacademy.com/cp/modules/view/id/173) by Linux Academy
 
-0. [DevOps Essentials](https://linuxacademy.com/course/devops-essentials-2018/) by Linux Academy ✅
+2. [DevOps Essentials](https://linuxacademy.com/course/devops-essentials-2018/) by Linux Academy ✅
 
-0. [Introduction to Python Development](https://linuxacademy.com/cp/modules/view/id/311) by Linux Academy
+3. [Introduction to Python Development](https://linuxacademy.com/cp/modules/view/id/311) by Linux Academy
 
-0. [Ansible Quick Start](https://linuxacademy.com/cp/modules/view/id/288) by Linux Academy
+4. [Ansible Quick Start](https://linuxacademy.com/cp/modules/view/id/288) by Linux Academy
 
-0. [Beginner’s Guide to Containers and Orchestration](https://linuxacademy.com/cp/modules/view/id/275) by Linux Academy
+5. [Beginner’s Guide to Containers and Orchestration](https://linuxacademy.com/cp/modules/view/id/275) by Linux Academy
 
-0. [Learn Docker by Doing](https://linuxacademy.com/cp/modules/view/id/270) by Linux Academy
+6. [Learn Docker by Doing](https://linuxacademy.com/cp/modules/view/id/270) by Linux Academy
 
-0. [Jenkins Quick Start](https://linuxacademy.com/course/jenkins-quick-start/) by Linux Academy
+7. [Jenkins Quick Start](https://linuxacademy.com/course/jenkins-quick-start/) by Linux Academy
 
-0. [Implementing a Full CI/CD Pipeline](https://linuxacademy.com/cp/modules/view/id/218) by Linux Academy
-
+8. [Implementing a Full CI/CD Pipeline](https://linuxacademy.com/cp/modules/view/id/218) by Linux Academy
 
 #### Other Courses
 
 Below are courses that don't belong to any particular learning path:
 
-0. [Source Control With Git](https://linuxacademy.com/cp/modules/view/id/195?redirect_uri=https://app.linuxacademy.com/search?) by Linux Academy ✅
+1. [Source Control With Git](https://linuxacademy.com/cp/modules/view/id/195?redirect_uri=https://app.linuxacademy.com/search?) by Linux Academy ✅
 
-0. [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) by Linux Academy ✅
+2. [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) by Linux Academy ✅
 
-0. [LPI Linux Essentials Certification](https://linuxacademy.com/course/lpi-linuxessentials/) by Linux Academy 
+3. [LPI Linux Essentials Certification](https://linuxacademy.com/course/lpi-linuxessentials/) by Linux Academy
