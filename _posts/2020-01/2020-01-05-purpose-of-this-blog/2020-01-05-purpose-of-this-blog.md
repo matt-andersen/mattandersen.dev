@@ -2,11 +2,11 @@
 layout: post
 title: "Purpose of this Blog and My Goals"
 date: "2020-01-05"
-last_modified_at: "2020-01-08"
+last_modified_at: "2020-01-09"
 pin: true
 ---
 
-> *"An investment in knowledge pays the best interest"* --Ben Franklin
+> _"An investment in knowledge pays the best interest"_ --Ben Franklin
 
 If 2019 taught me anything, it's that education doesn't stop after you finish high school and university. It doesn't finish when you get that degree. And there definitely isn't an age limit on education, it's a life-long pursuit.
 
@@ -16,10 +16,33 @@ Okay enough talking, here is what my learning tree looks like. Please note that 
 
 ### Course List
 
+#### Junior DevOps - Learning Path
+
+This is a structured [learning path](https://linuxacademy.com/learning-path/junior-devops-engineer-entry-level/) provided by Linux Academy. Below are the courses that make up this path:
+
+0. [Linux Foundation Certified SysAdmin (LFCS)](https://linuxacademy.com/cp/modules/view/id/173) by Linux Academy
+
 0. [DevOps Essentials](https://linuxacademy.com/course/devops-essentials-2018/) by Linux Academy ✅
 
-0. [Source Control With Git](https://linuxacademy.com/cp/modules/view/id/195?redirect_uri=https://app.linuxacademy.com/search?) by Linux Academy 🕒 (need to finish labs)
+0. [Introduction to Python Development](https://linuxacademy.com/cp/modules/view/id/311) by Linux Academy
+
+0. [Ansible Quick Start](https://linuxacademy.com/cp/modules/view/id/288) by Linux Academy
+
+0. [Beginner’s Guide to Containers and Orchestration](https://linuxacademy.com/cp/modules/view/id/275) by Linux Academy
+
+0. [Learn Docker by Doing](https://linuxacademy.com/cp/modules/view/id/270) by Linux Academy
+
+0. [Jenkins Quick Start](https://linuxacademy.com/course/jenkins-quick-start/) by Linux Academy
+
+0. [Implementing a Full CI/CD Pipeline](https://linuxacademy.com/cp/modules/view/id/218) by Linux Academy
+
+
+#### Other Courses
+
+Below are courses that don't belong to any particular learning path:
+
+0. [Source Control With Git](https://linuxacademy.com/cp/modules/view/id/195?redirect_uri=https://app.linuxacademy.com/search?) by Linux Academy ✅
 
 0. [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) by Linux Academy ✅
 
-Further courses to be added 🚧
+0. [LPI Linux Essentials Certification](https://linuxacademy.com/course/lpi-linuxessentials/) by Linux Academy 
