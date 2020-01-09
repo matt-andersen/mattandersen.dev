@@ -7,3 +7,5 @@ pin: false
 ---
 
 What an uninspired title for today.
+
+I finally sorted out my subscription for Linux Academy so I went back and finished up the 
