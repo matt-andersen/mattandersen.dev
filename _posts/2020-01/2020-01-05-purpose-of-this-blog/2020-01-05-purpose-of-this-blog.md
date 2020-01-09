@@ -41,7 +41,7 @@ This is a structured [learning path](https://linuxacademy.com/learning-path/juni
 
 Below are courses that don't belong to any particular learning path:
 
-0. [Source Control With Git](https://linuxacademy.com/cp/modules/view/id/195?redirect_uri=https://app.linuxacademy.com/search?) by Linux Academy 🕒 (need to finish labs)
+0. [Source Control With Git](https://linuxacademy.com/cp/modules/view/id/195?redirect_uri=https://app.linuxacademy.com/search?) by Linux Academy ✅
 
 0. [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) by Linux Academy ✅
 
