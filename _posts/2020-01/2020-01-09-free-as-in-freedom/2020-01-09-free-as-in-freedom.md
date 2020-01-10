@@ -26,5 +26,7 @@ As mentioned yesterday, I have reshaped the direction of my learning. I have dec
 
 - Quoting:
   - Escape character (\\\): will preserve the value of the _next following_ character.
+  
   - Single quotes: will preserve the literal value of _every_ character contained within the quotes. Including the escape character.
+  
   - Double quotes: will preserve the value of _most_ characters except for \$, single quotes, and the escape character.
