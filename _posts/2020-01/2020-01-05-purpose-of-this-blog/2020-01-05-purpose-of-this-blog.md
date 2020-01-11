@@ -44,4 +44,4 @@ Below are courses that don't belong to any particular learning path:
 
 2. [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) by Linux Academy ✅
 
-3. [LPI Linux Essentials Certification](https://linuxacademy.com/course/lpi-linuxessentials/) by Linux Academy
+3. [LPI Linux Essentials Certification](https://linuxacademy.com/course/lpi-linuxessentials/) by Linux Academy ⌛
