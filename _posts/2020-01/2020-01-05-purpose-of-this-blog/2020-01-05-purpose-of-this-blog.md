@@ -2,7 +2,7 @@
 layout: post
 title: "Purpose of this Blog and My Goals"
 date: "2020-01-05"
-last_modified_at: "2020-01-09"
+last_modified_at: "2020-01-11"
 pin: true
 ---
 
