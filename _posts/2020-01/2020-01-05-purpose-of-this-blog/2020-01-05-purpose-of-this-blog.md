@@ -2,7 +2,7 @@
 layout: post
 title: "Purpose of this Blog and My Goals"
 date: "2020-01-05"
-last_modified_at: "2020-01-11"
+last_modified_at: "2020-01-21"
 pin: true
 ---
 
@@ -16,7 +16,7 @@ Okay enough talking, here is what my learning tree looks like. Please note that 
 
 ### Course List
 
-#### Junior DevOps - Learning Path
+#### Junior DevOps Engineer - Learning Path
 
 This is a structured [learning path](https://linuxacademy.com/learning-path/junior-devops-engineer-entry-level/) provided by Linux Academy. Below are the courses that make up this path:
 
