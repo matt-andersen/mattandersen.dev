@@ -24,7 +24,7 @@ This is a structured [learning path](https://linuxacademy.com/learning-path/juni
 
 2. [DevOps Essentials](https://linuxacademy.com/course/devops-essentials-2018/) by Linux Academy ✅
 
-3. [Introduction to Python Development](https://linuxacademy.com/cp/modules/view/id/311) by Linux Academy
+3. [Introduction to Python Development](https://linuxacademy.com/cp/modules/view/id/311) by Linux Academy ⌛
 
 4. [Ansible Quick Start](https://linuxacademy.com/cp/modules/view/id/288) by Linux Academy
 
@@ -44,4 +44,4 @@ Below are courses that don't belong to any particular learning path:
 
 2. [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) by Linux Academy ✅
 
-3. [LPI Linux Essentials Certification](https://linuxacademy.com/course/lpi-linuxessentials/) by Linux Academy ⌛
+3. [LPI Linux Essentials Certification](https://linuxacademy.com/course/lpi-linuxessentials/) by Linux Academy ✅
