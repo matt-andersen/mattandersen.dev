@@ -26,9 +26,9 @@ This is a structured [learning path](https://linuxacademy.com/learning-path/juni
 
 3. [Introduction to Python Development](https://linuxacademy.com/cp/modules/view/id/311) by Linux Academy 🕒
 
-4. [Ansible Quick Start](https://linuxacademy.com/cp/modules/view/id/288) by Linux Academy ⌛
+4. [Ansible Quick Start](https://linuxacademy.com/cp/modules/view/id/288) by Linux Academy ✅
 
-5. [Beginner’s Guide to Containers and Orchestration](https://linuxacademy.com/cp/modules/view/id/275) by Linux Academy
+5. [Beginner’s Guide to Containers and Orchestration](https://linuxacademy.com/cp/modules/view/id/275) by Linux Academy ⌛
 
 6. [Learn Docker by Doing](https://linuxacademy.com/cp/modules/view/id/270) by Linux Academy
 
