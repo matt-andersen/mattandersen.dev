@@ -2,7 +2,7 @@
 layout: post
 title: "Purpose of this Blog and My Goals"
 date: "2020-01-05"
-last_modified_at: "2020-01-21"
+last_modified_at: "2020-01-24"
 pin: true
 ---
 
@@ -30,7 +30,7 @@ This is a structured [learning path](https://linuxacademy.com/learning-path/juni
 
 5. [Beginner’s Guide to Containers and Orchestration](https://linuxacademy.com/cp/modules/view/id/275) by Linux Academy ✅
 
-6. [Learn Docker by Doing](https://linuxacademy.com/cp/modules/view/id/270) by Linux Academy ⌛
+6. [Learn Docker by Doing](https://linuxacademy.com/cp/modules/view/id/270) by Linux Academy 🕒
 
 7. [Jenkins Quick Start](https://linuxacademy.com/course/jenkins-quick-start/) by Linux Academy
 
@@ -45,3 +45,7 @@ Below are courses that don't belong to any particular learning path:
 2. [AWS Concepts](https://linuxacademy.com/course/aws-concepts/) by Linux Academy ✅
 
 3. [LPI Linux Essentials Certification](https://linuxacademy.com/course/lpi-linuxessentials/) by Linux Academy ✅
+
+4. [Docker Quick Start](https://linuxacademy.com/cp/modules/view/id/284) by Linux Academy ⌛
+
+5. [Docker - Deep Dive](https://linuxacademy.com/cp/modules/view/id/314) by Linux Academy
