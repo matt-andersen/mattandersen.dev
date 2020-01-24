@@ -6,7 +6,7 @@ last_modified_at: null
 pin: false
 ---
 
-Today's focus was on containers. Initially, I started on the _Learn Docker by Doing_ course in accordance with Linux Academy's _Junior DevOps Engineer_ learning path. But it was suggested that I take _Docker Quick Start_ and _Docker - Deep Dive_ as prerequisites. So I have updated the pinned post in accordance with this. See below for related notes:
+Today's focus was on containers. Initially, I started on the _Learn Docker by Doing_ course in accordance with Linux Academy's _Junior DevOps Engineer_ learning path. But it was suggested that I take _Docker Quick Start_ and _Docker - Deep Dive_ as prerequisites. So, I have updated the pinned post in accordance with this. See below for related notes:
 
 - `docker image ls`: View all images that have been installed.
 
