@@ -46,6 +46,6 @@ Below are courses that don't belong to any particular learning path:
 
 3. [LPI Linux Essentials Certification](https://linuxacademy.com/course/lpi-linuxessentials/) by Linux Academy ✅
 
-4. [Docker Quick Start](https://linuxacademy.com/cp/modules/view/id/284) by Linux Academy ⌛
+4. [Docker Quick Start](https://linuxacademy.com/cp/modules/view/id/284) by Linux Academy ✅
 
-5. [Docker - Deep Dive](https://linuxacademy.com/cp/modules/view/id/314) by Linux Academy
+5. [Docker - Deep Dive](https://linuxacademy.com/cp/modules/view/id/314) by Linux Academy ⌛
