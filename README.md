@@ -2,8 +2,8 @@
 
 ## Setup
 
-bundle install
+`bundle install`
 
 ## Run Locally
 
-bundle exec jekyll serve
+`bundle exec jekyll serve`
