@@ -3,12 +3,7 @@
     <a href="/" class="site-title">Matt Andersen</a>
     <nav class="site-nav">
       {% for item in site.data.navigation %}
-      {% if item.name == "CV" %}
-      <a class="nav-link" target="_blank" href="{{ '/assets/cv/MattAndersenResume.pdf' | prepend: site.baseurl }}">{{ item.name }}</a>
-      {% else %}
-      <a class="nav-link" href="{{ item.link }}" {% if page.url == item.link %}class="current"
-        {% endif %}>{{ item.name }}</a>
-      {% endif %}
+      <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
       {% endfor %}
     </nav>
   </div>
