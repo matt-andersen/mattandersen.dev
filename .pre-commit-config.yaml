@@ -1,0 +1,57 @@
+repos:
+  # Python
+  - repo: "https://github.com/PyCQA/isort"
+    rev: "5.10.1"
+    hooks:
+      - id: isort
+        name: "Python: Sort imports"
+        args: [--profile=black]
+
+  - repo: "https://github.com/csachs/pyproject-flake8"
+    rev: "v0.0.1a4"
+    hooks:
+      - id: pyproject-flake8
+        name: "Python: Flake8 linting"
+
+  - repo: "https://github.com/psf/black"
+    rev: "22.3.0"
+    hooks:
+      - id: black
+        name: "Python: Black formatter"
+
+  - repo: "https://github.com/terrencepreilly/darglint"
+    rev: "v1.8.1"
+    hooks:
+      - id: darglint
+        name: "Python: Docstring linter"
+        types: [python]
+
+  # General
+  - repo: "https://github.com/pre-commit/pre-commit-hooks"
+    rev: "v4.2.0"
+    hooks:
+      - id: check-added-large-files
+        name: "General: Check for large added files"
+      - id: trailing-whitespace
+        name: "General: Trim trailing whitespace"
+      - id: end-of-file-fixer
+        name: "General: Fix end of files"
+
+  - repo: "https://github.com/pre-commit/mirrors-prettier"
+    rev: "v2.6.2"
+    hooks:
+      - id: prettier
+        name: "General: Prettier formatter"
+
+  # Security
+  - repo: "https://github.com/Yelp/detect-secrets"
+    rev: "v1.2.0"
+    hooks:
+      - id: detect-secrets
+        name: "Security: Detect secrets"
+
+  - repo: "https://github.com/PyCQA/bandit"
+    rev: "1.7.4"
+    hooks:
+      - id: bandit
+        name: "Security: Bandit"
