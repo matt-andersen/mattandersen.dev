@@ -9,12 +9,12 @@
 title: Matt Andersen
 email: mattandersen0@gmail.com
 github_username: matt-andersen
-linkedin_username:  mattandersen0
+linkedin_username: mattandersen0
 description: A portfolio of my progress as a software engineer.
 
 # Build settings
 markdown: kramdown
-permalink : pretty
+permalink: pretty
 
 gems:
   - jekyll-gist
