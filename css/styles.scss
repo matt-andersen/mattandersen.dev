@@ -1,13 +1,13 @@
 ---
 ---
 
-@import "abstracts/variables";
+@import "variables";
 
-@import "base/base";
-@import "base/helpers";
+@import "base";
+@import "helpers";
 
-@import "layout/header";
-@import "layout/footer";
+@import "header";
+@import "footer";
 
-@import "pages/index";
-@import "pages/posts";
+@import "index";
+@import "posts";
