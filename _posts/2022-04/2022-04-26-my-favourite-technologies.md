@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Why My Favourite Technologies Are My Favourites"
+title: "My Favourite Technologies"
 date: "2022-04-26"
 pin: "false"
 hide: "false"
