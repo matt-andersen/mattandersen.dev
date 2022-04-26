@@ -1,4 +1,4 @@
-# matt-andersen.github.io
+# mattandersen.dev
 
 ## Setup
 
