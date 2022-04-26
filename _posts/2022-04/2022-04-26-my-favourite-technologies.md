@@ -17,8 +17,8 @@ Then from that, I tried to get it down to a dozen or so. My selections are sort
 of arbitrary and based purely on feeling.
 
 There are a lot of things I haven't used before that I would like to use. So
-some of these might be dethroned in the future. Also, this isn't an
-authoritative list, it is all personal preference. 🙂
+some of these items on the list might be dethroned in the future. Also, this
+isn't an authoritative list, it is all personal preference. 🙂
 
 ## 1. Python
 
@@ -79,11 +79,11 @@ the time it would have taken me to do it in Spring.
 
 ## 7. Black
 
-Black is a very awesome and handy Python library. I roll with the defaults
-because they just make sense. With Prettier, for example, some formatting
-doesn't look very pretty to me. But I don't want to have to play around with
-customising things myself. I always put Black in my projects, even if it is just
-something hacky.
+Black is a very awesome and handy Python library for formatting code. Besides
+the line length, which I keep at 90, I roll with the defaults because they just
+make sense. With Prettier, for example, some formatting doesn't look very pretty
+to me. But I don't want to have to play around with customising things myself. I
+always put Black in my projects, even if it is just something hacky.
 
 ## 8. Git
 
