@@ -1,5 +1,7 @@
 repos:
+  # --------------------------------------------------------------------------------------
   # Python
+  # --------------------------------------------------------------------------------------
   - repo: "https://github.com/PyCQA/isort"
     rev: "5.10.1"
     hooks:
@@ -26,7 +28,9 @@ repos:
         name: "Python: Docstring linter"
         types: [python]
 
+  # --------------------------------------------------------------------------------------
   # General
+  # --------------------------------------------------------------------------------------
   - repo: "https://github.com/pre-commit/pre-commit-hooks"
     rev: "v4.2.0"
     hooks:
@@ -36,12 +40,6 @@ repos:
         name: "General: Trim trailing whitespace"
       - id: end-of-file-fixer
         name: "General: Fix end of files"
-
-  - repo: "https://github.com/pre-commit/mirrors-prettier"
-    rev: "v2.6.2"
-    hooks:
-      - id: prettier
-        name: "General: Prettier formatter"
 
   - repo: "https://github.com/igorshubovych/markdownlint-cli"
     rev: "v0.31.1"
@@ -54,9 +52,10 @@ repos:
     hooks:
       - id: prettier
         name: "General: Prettier formatter"
-        types_or: [html, css, scss, yaml, toml]
 
+  # --------------------------------------------------------------------------------------
   # Security
+  # --------------------------------------------------------------------------------------
   - repo: "https://github.com/Yelp/detect-secrets"
     rev: "v1.2.0"
     hooks:
